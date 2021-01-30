@@ -1,6 +1,8 @@
 # i_am_rich_by_trendpepper
 
-A new Flutter application.
+I made this app via android studio. 
+If you wanna look at the code. Make sure you open "main.dart" file from lib folder.
+I am mentioning this because I often couldn't find the file most of the time.
 
 ## Getting Started
 
